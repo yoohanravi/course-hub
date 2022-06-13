@@ -1,2 +1,2 @@
-# first
-this is my first project
+if you learn somithing follow this
+
